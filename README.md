@@ -11,7 +11,7 @@ Motivated and aspiring web developer with a foundational
  
 Feel free to explore my portfolio to learn more about my work and how to get in touch with me.
 ## Education
-I began my formal education in 2011 when I was admitted to Programmer School in class Nursery. This foundation laid the groundwork for my academic development and sparked my interest in technology and programming. I progressed through the school, culminating in my completion of matriculation in March 2024. For ninth and tenth grade, I studied at MAK Collegiate (Up More Campus), where I further honed my academic skills and deepened my interest in various subjects. In addition to my school education, I have been enhancing my knowledge and skills by studying at the Presidential Initiative for Artificial Intelligence and Computing (PIAIC) since July 2023. At PIAIC, I am focused on Generative Applied Engineering, which is helping me deepen my understanding of AI and related technologies.<br/>
+I began my formal education in 2011 when I was admitted to Programmer School in class Nursery. This foundation laid the groundwork for my academic development and sparked my interest in technology and programming. I progressed through the school, culminating in my completion of matriculation in March 2024.  I have been enhancing my knowledge and skills by studying at the Presidential Initiative for Artificial Intelligence and Computing (PIAIC) since July 2023. At PIAIC, I am focused on Generative Applied Engineering, which is helping me deepen my understanding of AI and related technologies.<br/>
 ## Skills
 - TypeScript
 - HTML
