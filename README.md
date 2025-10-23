@@ -10,21 +10,23 @@ Motivated and aspiring web developer with a foundational
  creating impactful web experiences.<br/>
  
 Feel free to explore my portfolio to learn more about my work and how to get in touch with me.
-<h2>Education</h2> 
+## Education
 I began my formal education in 2011 when I was admitted to Programmer School in class Nursery. This foundation laid the groundwork for my academic development and sparked my interest in technology and programming. I progressed through the school, culminating in my completion of matriculation in March 2024. For ninth and tenth grade, I studied at MAK Collegiate (Up More Campus), where I further honed my academic skills and deepened my interest in various subjects. In addition to my school education, I have been enhancing my knowledge and skills by studying at the Presidential Initiative for Artificial Intelligence and Computing (PIAIC) since July 2023. At PIAIC, I am focused on Generative Applied Engineering, which is helping me deepen my understanding of AI and related technologies.<br/>
-<h2>Skils</h2>
-<ul>
-  <li>TypeScript</li>
-  <li>HTML</li>
-  <li>JavaScript</li>
-  <li>CSS (Cascading Style Sheets)</li>
-  <li>Tailwind CSS</li>
-  <li>Next.js</li>
-  <li>react.js</li>
-  <li>C++</li>
-  <li>UI/UX design</li>
-</ul>
-<h2>Contact</h2>
+## Skills
+- TypeScript
+- HTML
+- JavaScript
+- CSS (Cascading Style Sheets)
+- Tailwind CSS
+- Next.js
+- React.js
+- C++
+- Supabase
+- Python
+- Node.js
+
+  
+## Contact
 You can reach me through:
 <ul>
   <li>Email:<a href="mailto:minamrahman727@gmail.com" class="text-gray-700">minamrahman727@gmail.com</a></li>
